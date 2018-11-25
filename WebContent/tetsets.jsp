@@ -8,5 +8,7 @@
 </head>
 <body>
 
+<input id="test2" type="text" name="test" value="test"/>
 </body>
 </html>
+
